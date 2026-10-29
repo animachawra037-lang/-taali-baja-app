@@ -1,0 +1,6 @@
+{
+  "name": "Taali Baja - Comedy & Short Video App",
+  "description": "Watch hilarious comedy reels, memes, and standup clips. Create, trim, add sound effects and funny stickers, and share laughs instantly on WhatsApp.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
